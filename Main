@@ -1,0 +1,30 @@
+FilNoteFEVM/
+├─ README.md
+├─ LICENSE
+├─ report/
+│  └─ milestone1/
+│     ├─ 1_ExecutiveSummary.md
+│     ├─ 2_Objectives_and_Scope.md
+│     ├─ 3_Technical_Deliverables.md
+│     ├─ 4_Progress_Record.md
+│     ├─ 5_Legal_Framework/
+│     │  ├─ A_Debt_Note_Agreement_EN_CN.md
+│     │  ├─ B_SubNote_Agreement_EN_CN.md
+│     │  ├─ C_Platform_Service_Terms_EN_CN.md
+│     │  ├─ D_Risk_Disclosure_EN_CN.md
+│     │  ├─ E_Privacy_Compliance_Notice_EN_CN.md
+│     │  └─ F_Paper_Contract_SOP_EN_CN.md
+│     ├─ 6_User_Feedback.md
+│     ├─ 7_Improvements_and_NextSteps.md
+│     ├─ 8_Appendix.md
+│     └─ assets/
+│        ├─ architecture-diagram.png        # 系统流程图（占位）
+│        └─ evidence-screenshots/           # Filscan/前端截图占位
+├─ docs/
+│  └─ progress-record.md                    # 每周进度簿（中文基础版）
+├─ LEGAL_SOP.md                             # 顶层快速入口（链接到 5F）
+├─ DEPLOYMENTS.md                           # 统一部署/地址/版本
+├─ SECURITY.md                              # 漏洞披露与安全联络
+└─ .github/
+   └─ workflows/
+      └─ ci.yml                             # （可选）CI 占位
