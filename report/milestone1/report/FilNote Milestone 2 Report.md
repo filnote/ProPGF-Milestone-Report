@@ -1,14 +1,24 @@
 FilNote Milestone 2 Report
+
 Mainnet Launch & Real Issuance Validation
+
 Program: Filecoin ProPGF (Batch 1)
+
 Project: FilNote – FIL-Denominated Credit Notes for Storage Providers
+
 Milestone: 02 – Mainnet Launch & Real Issuance Validation
+
 Milestone 2 Date : Oct 2025 – Jan 2026
+
 Team: FilNote Team
+
 Website: https://www.filnote.top/
 Core Contracts: https://github.com/filnote/FilNoteFEVM
+
 Frontend: https://github.com/filnote/FilNoteFEVMFront
+
 Backend API: https://github.com/filnote/FilNoteFEVMAPI
+
 
 1. Executive Summary
 Milestone 2 marks FilNote’s transition from a testnet MVP into a mainnet-deployed, operationally ready credit issuance system on Filecoin EVM.
